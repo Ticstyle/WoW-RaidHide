@@ -1,0 +1,11 @@
+## Interface: 50400
+## Title: RaidHide
+## Author: Ticstyle
+## Version: 5.4.8
+## X-Curse-Packaged-Version: 5.4.8
+## X-Curse-Project-Name: RaidHide
+## X-Curse-Project-ID: raidhide
+## Website: http://raidhide.ticstyle.se/
+## Donate: http://donate.ticstyle.se/
+## Notes: Hides Blizzard's raid frames... All of it!                                 Author: |cff7f7fffTicstyle|r
+RaidHide.xml

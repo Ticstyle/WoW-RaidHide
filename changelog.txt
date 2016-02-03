@@ -1,0 +1,18 @@
+v5.4.8
+* Updated for patch 5.4.8
+
+v4.3.0
+* Updated for patch 4.3
+
+v4.2.0:
+* Updated for patch 4.2
+* New version system applyed
+
+v1.2.40000:
+* Adjustments made to the Slash Commands.
+
+v1.1.40000:
+* Documentation updates.
+
+v1.0.40000:
+* Addon created.
